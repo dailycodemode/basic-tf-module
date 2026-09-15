@@ -1,3 +1,3 @@
 output "example" {
-  value = "hello from terraform"
+  value = "hello from terraform2"
 }
